@@ -1,5 +1,5 @@
 
-1 php artisan migrate
+1 php artisan migrate<br/>
 2 php artisan db:seed
 
 Везде статус 200 если успешно и 400 или 404 если не успешно
