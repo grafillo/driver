@@ -1,3 +1,4 @@
+http://restdriver/public/api/v1/
 
 1 php artisan migrate<br/>
 2 php artisan db:seed
